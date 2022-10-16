@@ -11,7 +11,7 @@ First clone this repository, install the dependencies, and setup your .env file.
 - php artisan key:generate
 - php artisan jwt:secret
 
-Then create & import the necessary database.
+Then create & import the necessary database .env file.
 - database_file  --rest_api_db.sql
 
 ## And run the initial Project
