@@ -9,7 +9,7 @@ First clone this repository, install the dependencies, and setup your .env file.
 - cp .env.example  .env
 
 Then create & import the necessary database.
-- database_file  rest_api_jwt.sql
+- database_file  --rest_api_db.sql
 
 ## And run the initial Project
 - php artisan serve
