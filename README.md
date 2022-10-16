@@ -4,7 +4,7 @@
 
 First clone this repository, install the dependencies, and setup your .env file.
 
-- git clone git@github.com:juel043/Rest_Api_Jwt.git
+- git clone git@github.com:juel043/REST_API_JWT.git
 ## Run Command
 - composer install
 - copy .env.example   .env
