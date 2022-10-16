@@ -9,6 +9,7 @@ First clone this repository, install the dependencies, and setup your .env file.
 - composer install
 - copy .env.example   .env
 - php artisan key:generate
+- php artisan jwt:secret
 
 Then create & import the necessary database.
 - database_file  --rest_api_db.sql
